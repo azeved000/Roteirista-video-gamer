@@ -125,22 +125,10 @@ Você pode personalizar:
 
 ## 📝 Licença
 
-Este projeto é de código aberto e está disponível para uso educacional e comercial.
-
+Este projeto é de código aberto
 ## 👤 Autor
 
 **azeved000**
 
 - GitHub: [@azeved000](https://github.com/azeved000)
 
-## 🤝 Contribuições
-
-Contribuições, issues e feature requests são bem-vindos!
-
-## ⭐ Mostre seu apoio
-
-Se este projeto foi útil, considere dar uma ⭐!
-
----
-
-**Desenvolvido com ❤️ usando CrewAI e OpenAI**
